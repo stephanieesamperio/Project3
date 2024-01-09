@@ -2,8 +2,8 @@
 
 Team: Mai Le, OC Odunze & Stephanie Samperio
 
-○ Project Overview:
+○ Project Overview
 
-○ ERD:
+○ ERD
 
-○ References:
+○ References
