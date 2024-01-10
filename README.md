@@ -1,15 +1,15 @@
 # ETL - Workplace Mental Health Data
 
-Team: Mai Le, OC Odunze & Stephanie Samperio
+⦿ **Team:** Mai Le, OC Odunze & Stephanie Samperio
 
 
 
-⦿ Project Overview
+⦿ **Project Overview**
 
    In this project, we built an ETL pipeline using Python, Pandas and Python dictionary methods to extract and transform data. We created 3 seperate CSV files and use the CSV file data to create an ERD. We also uploaded our CSV file daa into a Postgres database.
 
 
-⦿ Research Questions
+⦿ **Research Questions**
    
    ⚬ Question 
    
@@ -21,7 +21,7 @@ Team: Mai Le, OC Odunze & Stephanie Samperio
     
    **At least one paragraph summarizing efforts for ethical considerations made in the project
 
-⦿ ERD
+⦿ **ERD**
 
 
-⦿ References
+⦿ **References**
