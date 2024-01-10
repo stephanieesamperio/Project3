@@ -6,7 +6,7 @@ Team: Mai Le, OC Odunze & Stephanie Samperio
 
 ⦿ Project Overview
 
-   In this project, we built an ETL pipeline using Python, Pandas and Python dictionary methods to extract and transform data. We created 3 seperate CSV files and use the CSV file data to create and ERD. We also uploaded our CSV file daa into a Postgres database.
+   In this project, we built an ETL pipeline using Python, Pandas and Python dictionary methods to extract and transform data. We created 3 seperate CSV files and use the CSV file data to create an ERD. We also uploaded our CSV file daa into a Postgres database.
 
 
 ⦿ Research Questions
