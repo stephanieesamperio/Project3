@@ -1,6 +1,6 @@
 # ETL - Workplace Mental Health Data
 
-⦿ **Team:** Mai Le, OC Odunze & Stephanie Samperio
+ **Mai Le, OC Odunze & Stephanie Samperio**
 
 
 
@@ -10,14 +10,13 @@
 
 
 ⦿ **Research Questions**
-   
-   ⚬ Question 
-   
-   ⚬ Question
-   
-   ⚬ If the workplace offers mental health assistance, are employess less likely to suffer from mental health? 
-   
-   ⚬ If the worker is anonymously protected are they more likely to seek out help from their workplace mental health assistance programs?
+   - Does family history of mental illnesses affect the likelihood of the individual to reach out for mental health assistance?
+     
+   -  Question
+     
+   -  If the workplace offers mental health assistance, are employess less likely to suffer from mental health?
+
+   -  If the worker is anonymously protected are they more likely to seek out help from their workplace mental health assistance programs?
     
    **At least one paragraph summarizing efforts for ethical considerations made in the project
 
