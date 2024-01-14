@@ -27,3 +27,6 @@
 
 
 ⦿ **References**
+
+-https://numpy.org/doc/stable/reference/routines.math.html
+
