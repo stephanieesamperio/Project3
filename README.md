@@ -7,6 +7,11 @@
 ⦿ **Project Overview**
 
    In this project, we built an ETL pipeline using Python, Pandas and Python dictionary methods to extract and transform data. We created 3 seperate CSV files and use the CSV file data to create an ERD. We also uploaded our CSV file data into a Postgres database.
+   
+ ⦿ **Dataset Summary: Mental​ Health​ at Workplace ​Survey (CSV)**
+ 
+   This dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace.
+ 
 
 
 ⦿ **Research Questions**
