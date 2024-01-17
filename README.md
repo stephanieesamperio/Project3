@@ -17,7 +17,7 @@
 ⦿ **Research Questions**
    - Does family history of mental illnesses affect the likelihood of the individual to reach out for mental health assistance?
      
-   -  If the workplace offers mental health assistance, are employess less likely to suffer from mental health?
+   -  If the worksplace offers mental health assitance are employees more likely to seek treatment?
 
    -  If the worker is anonymously protected are they more likely to seek out help from their workplace mental health assistance programs?
      
