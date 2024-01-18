@@ -37,3 +37,5 @@
 
 -https://numpy.org/doc/stable/reference/routines.math.html
 
+-https://deallen7.medium.com/using-pandas-loc-and-isin-to-filter-for-a-list-of-values-in-python-a1c862054058
+
