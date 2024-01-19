@@ -39,3 +39,7 @@
 
 -https://deallen7.medium.com/using-pandas-loc-and-isin-to-filter-for-a-list-of-values-in-python-a1c862054058
 
+-https://stackoverflow.com/questions/75302092/convert-multiple-columns-in-pandas-dataframe-to-array-of-arrays
+
+-https://stackoverflow.com/questions/2152898/filtering-a-list-of-strings-based-on-contents
+
