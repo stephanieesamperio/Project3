@@ -27,9 +27,6 @@
     
    **At least one paragraph summarizing efforts for ethical considerations made in the project
 
-⦿ **ERD**
-
-
 
 ⦿ **References**
 
