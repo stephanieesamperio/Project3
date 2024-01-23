@@ -28,6 +28,8 @@
 
 ⦿ **ERD**
 
+![QuickDBD-export](https://github.com/stephanieesamperio/Project3/assets/144180948/52dc6c3a-635e-4e37-8ead-4b04d2995754)
+
 
 ⦿ **References**
 
